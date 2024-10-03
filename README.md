@@ -1,2 +1,2 @@
-# 2024-03Fall-CSE474-CMLib-rabel.catayoc
+Rabel Catayoc - CSE 474 Software Quality Assurance
 This repo is for out CSE 474 Software Quality Assurance class.
