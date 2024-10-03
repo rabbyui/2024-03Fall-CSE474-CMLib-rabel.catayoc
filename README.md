@@ -1,6 +1,4 @@
-# Rabel Catayoc 
-## CSE 474 Software Quality Assurance 
-## Fall 2024 | Brother Scott Wood
+# Rabel Catayoc | CSE 474 Software Quality Assurance | Fall 2024 | Brother Scott Wood
 
 Welcome to CSE 474 - Software Quality Assurance.
 
